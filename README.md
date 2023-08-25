@@ -3,7 +3,7 @@
 ./mvnw clean install
 ./mvnw spotless:apply
 
-this is a simple app written to learn mango db and spring boot
+this is a simple backend app written to learn mango db and spring boot
 
 
 # curl 
